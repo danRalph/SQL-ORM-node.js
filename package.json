@@ -1,0 +1,16 @@
+{
+  "name": "SQLOrmsNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^5.21.8",
+    "sqlite3": "^4.0.9"
+  }
+}
